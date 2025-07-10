@@ -1,0 +1,3 @@
+question,intent,response
+When is the exam?,exam_schedule,The exams start on August 1st.
+Who is the HOD?,faculty_contact,Dr. Sharma is the HOD of CS Department.
